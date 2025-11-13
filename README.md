@@ -175,9 +175,12 @@ MIT License - feel free to use for learning and portfolio purposes.
 ## 👤 Author
 
 **Oladotun Olawale**
-- LinkedIn: [http://www.linkedin.com/in/oladotun-olawale]
-- Portfolio: [https://github.com/Dannywhilz001]
-- Email: oladotunolawale29@yahoo.com
+
+📧 Email: oladotunolawale29@yahoo.com
+
+🔗 LinkedIn: http://www.linkedin.com/in/oladotun-olawale
+
+💼 Portfolio: https://github.com/Dannywhilz001
 
 ## 🌟 Acknowledgments
 
